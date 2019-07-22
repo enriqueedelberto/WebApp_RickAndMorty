@@ -1,0 +1,15 @@
+{
+  "name": "app_rickandmorty",
+  "version": "1.0.0",
+  "description": "App to show Rick and Morty ApI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edelberto Reyes",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "4.36.1",
+    "webpack-cli": "3.3.6"
+  }
+}
